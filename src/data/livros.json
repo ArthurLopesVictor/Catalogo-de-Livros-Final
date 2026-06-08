@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Grande Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "genero": "Ficção",
+    "ano": 1925,
+    "capa": "https://images.unsplash.com/photo-1661936901394-a993c79303c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBmaWN0aW9ufGVufDF8fHx8MTc3NTQ1ODkzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "Uma história sobre o sonho americano e a decadência moral da era do jazz nos anos 1920."
+  },
+  {
+    "id": 2,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "ano": 1954,
+    "capa": "https://images.unsplash.com/photo-1763315371267-86318801d8ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBmYW50YXN5JTIwZHJhZ29ufGVufDF8fHx8MTc3NTQ5ODMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "Uma épica aventura através da Terra-média, onde um hobbit deve destruir um anel mágico para salvar o mundo."
+  },
+  {
+    "id": 3,
+    "titulo": "Duna",
+    "autor": "Frank Herbert",
+    "genero": "Ficção Científica",
+    "ano": 1965,
+    "capa": "https://images.unsplash.com/photo-1771644974230-5519a06ab895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBzY2llbmNlJTIwZmljdGlvbiUyMHNwYWNlfGVufDF8fHx8MTc3NTQ5ODMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "No planeta desértico Arrakis, Paul Atreides deve sobreviver e liderar uma revolução galáctica."
+  },
+  {
+    "id": 4,
+    "titulo": "A Garota no Trem",
+    "autor": "Paula Hawkins",
+    "genero": "Suspense",
+    "ano": 2015,
+    "capa": "https://images.unsplash.com/photo-1760696473709-a7da66ee87a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBteXN0ZXJ5JTIwdGhyaWxsZXJ8ZW58MXx8fHwxNzc1NDQ2MjAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "Um thriller psicológico sobre uma mulher que testemunha algo perturbador de um trem e se envolve em um mistério."
+  },
+  {
+    "id": 5,
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "genero": "Romance",
+    "ano": 1813,
+    "capa": "https://images.unsplash.com/photo-1711185905420-0fd601705f0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjByb21hbmNlJTIwbG92ZXxlbnwxfHx8fDE3NzU0ODY3MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "A história clássica de Elizabeth Bennet e Mr. Darcy, navegando pelos costumes e preconceitos sociais da época."
+  },
+  {
+    "id": 6,
+    "titulo": "Steve Jobs",
+    "autor": "Walter Isaacson",
+    "genero": "Biografia",
+    "ano": 2011,
+    "capa": "https://images.unsplash.com/photo-1769963121626-7f1885db412c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBiaW9ncmFwaHklMjBoaXN0b3J5fGVufDF8fHx8MTc3NTQ4NjczM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "A biografia definitiva do cofundador da Apple, explorando sua vida, sua visão e seu impacto no mundo da tecnologia."
+  },
+  {
+    "id": 7,
+    "titulo": "Deixa-me Falar-te de Amor",
+    "autor": "Pablo Neruda",
+    "genero": "Poesia",
+    "ano": 1924,
+    "capa": "https://images.unsplash.com/photo-1585055462747-0bbcbd0e2167?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBwb2V0cnklMjBsaXRlcmF0dXJlfGVufDF8fHx8MTc3NTQ5ODMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "Uma coleção de poemas apaixonados do ganhador do Prêmio Nobel, celebrando o amor e a natureza."
+  },
+  {
+    "id": 8,
+    "titulo": "Na Natureza Selvagem",
+    "autor": "Jon Krakauer",
+    "genero": "Aventura",
+    "ano": 1996,
+    "capa": "https://images.unsplash.com/photo-1647495161969-f6fe559317e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBhZHZlbnR1cmUlMjB0cmF2ZWx8ZW58MXx8fHwxNzc1NDg2NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "A história real de Christopher McCandless, que abandona tudo para viver sozinho no Alaska selvagem."
+  },
+  {
+    "id": 9,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": "Ficção",
+    "ano": 1949,
+    "capa": "https://images.unsplash.com/photo-1661936901394-a993c79303c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBmaWN0aW9ufGVufDF8fHx8MTc3NTQ1ODkzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "Um romance distópico sobre um futuro totalitário onde a privacidade e a liberdade não existem."
+  },
+  {
+    "id": 10,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "ano": 1997,
+    "capa": "https://images.unsplash.com/photo-1763315371267-86318801d8ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBmYW50YXN5JTIwZHJhZ29ufGVufDF8fHx8MTc3NTQ5ODMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "O primeiro livro da saga mágica sobre um jovem bruxo descobrindo seu destino em Hogwarts."
+  },
+  {
+    "id": 11,
+    "titulo": "Neuromancer",
+    "autor": "William Gibson",
+    "genero": "Ficção Científica",
+    "ano": 1984,
+    "capa": "https://images.unsplash.com/photo-1771644974230-5519a06ab895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBzY2llbmNlJTIwZmljdGlvbiUyMHNwYWNlfGVufDF8fHx8MTc3NTQ5ODMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "O livro que definiu o cyberpunk, explorando um futuro de hackers, inteligência artificial e realidade virtual."
+  },
+  {
+    "id": 12,
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "genero": "Suspense",
+    "ano": 2003,
+    "capa": "https://images.unsplash.com/photo-1760696473709-a7da66ee87a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjBteXN0ZXJ5JTIwdGhyaWxsZXJ8ZW58MXx8fHwxNzc1NDQ2MjAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "Um thriller cheio de símbolos e mistérios religiosos, seguindo Robert Langdon em uma caça ao tesouro mortal."
+  },
+  {
+    "id": 13,
+    "titulo": "Ninguém é de Ninguém",
+    "autor": "Zibia Gasparetto",
+    "genero": "Espiritualidade",
+    "ano": 1976,
+    "capa": "https://images.unsplash.com/photo-1649445291149-0109474ac00b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzcGlyaXR1YWwlMjBib29rJTIwd2lzZG9tfGVufDF8fHx8MTc3NTQ5ODYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+    "descricao": "Uma obra espírita que aborda relacionamentos, amor e liberdade, ensinando sobre desapego e a importância de respeitar a individualidade de cada ser."
+  }
+]
